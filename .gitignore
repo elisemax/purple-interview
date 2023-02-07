@@ -1,9 +1,12 @@
 # compiled output
 /server/dist
 /server/node_modules
+/client/dist
+/client/node_modules
 
 # Logs
 server/logs
+client/logs
 *.log
 npm-debug.log*
 pnpm-debug.log*
